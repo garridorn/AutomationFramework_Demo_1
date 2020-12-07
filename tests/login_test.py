@@ -3,7 +3,7 @@ import pytest
 from pages.loginPage import LoginPage
 from pages.homePage import HomePage
 from utils import utils as utils
-import allure
+#import allure
 import moment
 
 
